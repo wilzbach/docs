@@ -16,8 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`v1.5.0`, `1.5.0`, `v1.5`, `1.5`, `cancoillotte`, `latest` (*scratch/amd64/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/4ac72271d92558226f76ef1a4043ac9fe1be05dd/scratch/amd64/Dockerfile)
--	[`v1.5.0-alpine`, `1.5.0-alpine`, `v1.5-alpine`, `1.5-alpine`, `cancoillotte-alpine`, `alpine` (*alpine/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/4ac72271d92558226f76ef1a4043ac9fe1be05dd/alpine/Dockerfile)
+**No supported tags found!**
+
+It is very likely that `traefik` does not support the currently selected architecture (`arm32v5`).
 
 # Quick reference
 
